@@ -1,0 +1,7 @@
+{
+  "firebase_config": {
+    "api_key": "ABCD",
+    "auth_domain": "test.firebaseapp.com",
+    "project_id": "test"
+  }
+}
